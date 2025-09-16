@@ -1,2 +1,2 @@
-// Escrever na tela Ola Mundo
+// Escrever na tela O la Mundo
 console.log("Olá Mundo!");
